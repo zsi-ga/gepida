@@ -7,3 +7,17 @@
 * Github: https://github.com/zsi-ga/gepida.git
 * Licenc: GNU GPL
 */
+
+
+#about{
+    background-color: rgb(224, 41, 41);
+    border: 2px solid rgb(25, 186, 49);
+    border-radius: 10px;
+    text-align: center;
+    position: fixed;
+    width: 600px;
+    top: 90px;
+    right: -180px;
+    transform: rotate(45deg);
+
+}
